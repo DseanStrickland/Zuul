@@ -1,0 +1,8 @@
+# Zuul
+
+//TO WIN:
+//SOUTH
+//PICKUP 
+//PICKUP
+//SOUTH
+//BOOM YOU HAVE WON
